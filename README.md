@@ -1,6 +1,6 @@
 # Hands-On
 
-Este é um projeto criado com o objetivo de aplicar meus conhecimentos em Typescript com Node.js, com base nas aulas do canal da Glaucia Lemos no YouTube.
+Este é um projeto criado com o objetivo de aplicar meus conhecimentos em Typescript com Node.js, com base nas aulas do canal da [Glaucia Lemos no YouTube](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H).
 
 ## Descrição
 
